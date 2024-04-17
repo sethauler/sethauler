@@ -4,6 +4,16 @@
 
 - <b> Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/sethauler/Azure-SOC)
+- <b> Incident Handler’s Journal "Coming Soon"</b>
+- <b> TryHackMe Journal "Coming Soon"</b>
+- <b> Vulnerable System Analysis "Coming Soon"</b>
+- <b> Security Audit </b>
+- <b> Cyber Incident Report </b>
+- <b> SQL Query “Coming Soon” </b>
+
+
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
